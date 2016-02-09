@@ -1,0 +1,6 @@
+[submodule "php-standards"]
+	path = code/php-standards
+	url = https://github.com/php-fig/fig-standards
+[submodule "php-solid"]
+	path = code/solid-principles
+	url = https://github.com/igariok1990/solid-principles-php
