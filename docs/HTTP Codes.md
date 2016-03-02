@@ -1,3 +1,5 @@
+This document was copied from [IANA](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml) for convenience. 
+
 | Value  | Description  | Reference |
 | --- | --- | --- |
 | 100 | Continue | [[RFC7231, Section 6.2.1](http://www.iana.org/go/rfc7231)] |
