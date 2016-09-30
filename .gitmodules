@@ -4,3 +4,9 @@
 [submodule "php-solid"]
 	path = code/solid-principles
 	url = https://github.com/igariok1990/solid-principles-php
+[submodule "css-standards"]
+    path = code/css-standards
+    url = https://github.com/airbnb/css
+[submodule "js-standards"]
+    path = code/js-standards
+    url = https://github.com/rwaldron/idiomatic.js
